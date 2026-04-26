@@ -13,8 +13,6 @@
 
 ### 🕒 Recent Activity
 
-
-
 ---
 
 ### 🛠️ Technical Ecosystem
