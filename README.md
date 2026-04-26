@@ -11,10 +11,7 @@
 
 ---
 
-### 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-
+### Recent Activity
 ---
 
 ### 🛠️ Technical Ecosystem
