@@ -11,11 +11,6 @@
 
 ---
 
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 ### 🛠️ Technical Ecosystem
 
 | Category | Tech Stack |
