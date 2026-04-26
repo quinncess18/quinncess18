@@ -13,6 +13,8 @@
 
 ### 🕒 Recent Activity
 
+<!--START_SECTION:activity-->
+
 ---
 
 ### 🛠️ Technical Ecosystem
