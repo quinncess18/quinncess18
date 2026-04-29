@@ -1,59 +1,87 @@
-<div align="center">
-  <h1>Hi, I'm Lara 👋</h1>
-  <p><strong>Software QA Engineer | SDET | Agentic AI Specialist</strong></p>
+# Hi, I'm Lara 👋
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Singapore-ED1C24?style=flat-square&logo=singapore-airlines&logoColor=white" />
-    <img src="https://img.shields.io/badge/Certification-ISTQB_CTFL-00519E?style=flat-square&logo=itunes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Main_Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </p>
-</div>
+**SDET / QA Automation Engineer | Playwright + Appium | AI-Assisted Test Development**
 
----
-
-### 🛠️ Technical Ecosystem
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **Core Languages** | `TypeScript` `JavaScript` `NoSQL (MongoDB)` `SQL (Basic)` |
-| **Automation & AI** | `Playwright` `Agentic Playwright Framework` `Claude Code` `Gemini CLI` |
-| **Mobile Testing** | **Real Devices:** `Xiaomi Pad 6`, `OnePlus` <br> **Simulators:** `Pixel`, `iPhone/iPad` |
-| **Engineering Ops** | `GitHub Actions (Sharding)` `Docker` `Swagger/OpenAPI` `Kilo Code` |
+[![Location](https://img.shields.io/badge/Based_in-Singapore-ED1C24?style=flat-square&logo=singapore-airlines&logoColor=white)](https://github.com/quinncess18)
+[![Certification](https://img.shields.io/badge/Certified-ISTQB_CTFL_4.0-00519E?style=flat-square&logo=itunes&logoColor=white)](https://github.com/quinncess18)
+[![Playwright](https://img.shields.io/badge/Specialist-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Appium](https://img.shields.io/badge/Mobile-Appium_2.x-662D91?style=flat-square&logo=appium&logoColor=white)](https://appium.io/)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work-43B581?style=flat-square&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/laratalasan)
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 🛠️ Technical Stack
 
-#### 🤖 [Agentic Playwright Framework](https://github.com/quinncess18)
-> *Next-gen autonomous testing.*
-- **The Innovation:** Building agents capable of self-healing and dynamic UI navigation.
-- **Tech:** Playwright, TypeScript, AI Agents.
-
-#### 🏗️ [Repo in Actions](https://github.com/quinncess18)
-> *Enterprise-scale CI/CD optimization.*
-- **The Result:** Implemented **Parallel Sharding** via GitHub Actions, reducing execution time by over 50%.
-- **Tech:** YAML, GitHub Actions, Docker.
-
----
-
-### 📈 Current Specialization
-- 📱 **Advanced Mobile UX:** Specialist in hybrid scrolling and gesture-based navigation for real-world devices.
-- ⚡ **CI/CD Efficiency:** Architecting test runners to maximize parallelization and minimize flakiness.
-- 🧠 **AI-Assisted Development:** Utilizing **Claude Code** and **Gemini CLI** to optimize test generation and framework maintenance.
+| Category | Tools |
+| --- | --- |
+| **Languages** | `TypeScript` `JavaScript` `SQL` `NoSQL (MongoDB)` |
+| **Web Automation** | `Playwright` `Page Object Model` `Custom Fixtures` `Visual Regression` |
+| **Mobile Automation** | `Appium 2.x` `WebdriverIO` `UIAutomator2 (Android)` `XCUITest (iOS)` |
+| **CI/CD & Infrastructure** | `GitHub Actions` `Docker` `Sharding` `Matrix Jobs` |
+| **AI Co-Pilots** | `Claude Code` `Gemini CLI` `Kilo Code` |
+| **Test Devices** | Pixel 5 · Pixel 8 · Pixel Tablet · iPhone 15 Pro · iPad |
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/laratalasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lara.talasan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🚀 Featured Projects
+
+#### 🌐 [Taqelah — Web Test Automation Framework](https://github.com/quinncess18/taqelah-lab-project-test)
+> *Production-grade Playwright + TypeScript framework for a fashion e-commerce demo site.*
+
+- **643+ passing tests** across smoke, functional, E2E, API CRUD/mocking, and visual regression suites
+- Page Object Model architecture with custom fixtures (`stablePage`, `uniqueEmail`, worker-scoped auth state)
+- Docker-isolated API environment + GitHub Actions CI/CD with **3-way test sharding**
+- **Stack:** Playwright · TypeScript · Docker · GitHub Actions
+
+#### 📱 [General Store — Android Mobile Automation Framework](https://github.com/quinncess18/generalstore-mobile-framework)
+> *Cross-device parallel mobile automation built on a Playwright + Appium hybrid.*
+
+- Worker-scoped Appium sessions persisting across test files for maximum throughput
+- **Non-destructive UI reset** via `mobile:startActivity` — eliminates the 404 session drops common with `terminateApp`
+- Parallel execution on Pixel 5 and Pixel Tablet via Playwright workers
+- **Stack:** Playwright · WebdriverIO · Appium 2.x · UIAutomator2
+
+#### 🔄 [Taqelah Mobile — Cross-Platform Mobile Framework](https://github.com/quinncess18/taqelah-mobile-automation) `In Active Development`
+> *One codebase, four devices, two platforms — for a Flutter application.*
+
+- **"Ternary Selector" pattern** bridging Android UIAutomator2 and iOS XCUITest selectors against Flutter TestKeys
+- 30%-width safe-zone gesture utility for tablet form factors and split-view safety
+- Modules 1 (Auth) and 2 (Catalog, with 32-item integrity audit) verified across Pixel 8, Pixel Tablet, iPhone 15 Pro, and iPad
+- **Stack:** Playwright · WebdriverIO · Appium 2.x · UIAutomator2 + XCUITest
+
+---
+
+### 🎯 Current Focus
+
+- 📱 **Mobile-first automation** — wrestling with Flutter's accessibility tree, hybrid scrolling, and gesture-based navigation on real devices
+- 🔄 **Cross-platform parity** — Page Objects written once that run on Android and iOS without divergent forks
+- 🤖 **AI-assisted framework development** — using Claude Code, Gemini CLI, and Kilo Code as implementation accelerators while owning test strategy, coverage design, and architecture decisions
+
+---
+
+### 📜 Certifications
+
+- **ISTQB® Certified Tester Foundation Level (CTFL 4.0)** — GASQ · March 2026
+- **Agentic Playwright Framework with AI-Powered Testing Workshop** — taqelah! · March 2026
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laratalasan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lara.talasan@gmail.com)
+
+---
+
+<p align="center">
+  <a href="https://github.com/quinncess18">
+    <img src="https://github-readme-stats.vercel.app/api?username=quinncess18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Lara's GitHub Stats" />
+  </a>
+  <a href="https://github.com/quinncess18">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinncess18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quinncess18&show_icons=true&theme=tokyonight&count_private=true" alt="Quinn's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinncess18&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ---
-<p align="center"><i>"Building the future of quality through Agentic Automation."</i></p>
+
+<p align="center"><i>Architect the strategy. Let AI handle the boilerplate.</i></p>
