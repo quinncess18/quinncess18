@@ -41,7 +41,7 @@
 - Parallel execution on Pixel 5 and Pixel Tablet via Playwright workers
 - **Stack:** Playwright · WebdriverIO · Appium 2.x · UIAutomator2
 
-#### 🔄 [Taqelah Mobile — Cross-Platform Mobile Framework](https://github.com/quinncess18/taqelah-mobile-automation) `In Active Development`
+#### 🔄 [Taqelah Mobile — Cross-Platform Mobile Framework](https://github.com/quinncess18/taqelah-mobile-automation)
 > *One codebase, four devices, two platforms — for a Flutter application.*
 
 - **"Ternary Selector" pattern** bridging Android UIAutomator2 and iOS XCUITest selectors against Flutter TestKeys
