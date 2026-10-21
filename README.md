@@ -2,7 +2,7 @@
 
 **Software QA Engineer | SDET | AI-Assisted Test Framework Development**
 
-[![Location](https://img.shields.io/badge/Location-Singapore-ED1C24?style=flat-square&logo=singapore-airlines&logoColor=white)](https://github.com/quinncess18)
+[![Location](https://img.shields.io/badge/Location-Philippines-0038A8?style=flat-square)](https://github.com/quinncess18)
 [![Certification](https://img.shields.io/badge/Certification-ISTQB_CTFL-00519E?style=flat-square&logo=itunes&logoColor=white)](https://app.skillsclub.com/credential/290360-ed673ce5ba5865628998887dfd0cd2616948b299b90d3b29b52ea393d5b9260a?locale=en)
 [![Workshop](https://img.shields.io/badge/taqelah!-Agentic_Playwright_Framework-E63946?style=flat-square&logoColor=white)](https://taqelah.sg/certificates/verify.html?id=TQLH-WS-D2K8N1TY)
 [![Main Stack](https://img.shields.io/badge/Main_Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/quinncess18)
